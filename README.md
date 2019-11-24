@@ -1,5 +1,5 @@
 # NNGo
-Policy Network ,Convolutional Neural Network.
+Policy Network, Convolutional Neural Network.
 
 Requirement to get it working:
 - Python 3.5 environment with TensorFlow and Keras properly installed
